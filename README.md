@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="400px" src="./.github/images/logo.svg" />
+  <img width="400px" src="https://user-images.githubusercontent.com/12499627/109498880-e2829080-7a72-11eb-86ab-ad0061d7615b.png" />
   <br />
   <a href="https://www.linkedin.com/in/welltonquirino95/">
     <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/welltonquirino95/">
@@ -16,8 +16,6 @@
   <a href="#closed_book-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#man-Autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
-
-<img src="./.github/images/nlw4-image-documentation.svg" />
 
 ## :page_facing_up: Descrição
 O Move.it é um app que usa a técnica de Pomodoro, esse app possibilita lembrar as pessoas que passa muito tempo na frente do computador a fazer alguns exercícios e alongamentos para uma melhor qualidade de vida.
