@@ -29,7 +29,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 - [Next.js](https://nextjs.org/)
 - [React.js](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [StyledComponents](https://styled-components.com/)
 
 ## :clipboard: Funcionalidades
 - [x] Iniciar um ciclo de 25 minutos.
